@@ -1,0 +1,8 @@
+Instruction:
+
+Refine the answer based on the critique. Your refined answer should be a direct and concise solution to the problem.
+
+Additional guidelines
+- Your response should not refer to or discuss the criticisms.
+- Do not repeat the problem statement.
+- Provide solution step-by-step.
